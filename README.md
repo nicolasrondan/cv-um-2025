@@ -17,7 +17,7 @@ Se pueden realizar todos los prácticos trabajando en google colab pero es posib
 
 2. Crear un '*virtual environment*' para poder trabajar sin modificar los paquetes de python instalados en su sistema.
 
-`conda create -n cvum python=3.10`
+`conda create -n cvum python=3.12`
 
 3. Activar el entorno virtual e instalar los paquetes necesarios:
 
